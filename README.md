@@ -118,22 +118,20 @@ The dashboard enables analysis of:
 - Built multiple business-focused visualizations
 - Used synthetic data for portfolio and learning purposes
 
-## Data Model & Tables Used
+## Dataset Fields Used
 
 The dashboard uses a sales dataset containing fields related to:
 
-- Orders
-- Customers
-- Products
-- Categories and sub-categories
-- Sales
-- Profit
-- Quantity
-- Discounts
-- Regions
-- Customer segments
-- Shipping modes
-- Order and shipment dates
+- Order details
+- Customer details
+- Product details
+- Category and sub-category
+- Sales and profit
+- Quantity and discount
+- Region and location
+- Customer segment
+- Shipping mode
+- Order date and ship date
 
 ## Project Conclusion
 
