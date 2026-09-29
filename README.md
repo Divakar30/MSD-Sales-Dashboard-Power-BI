@@ -90,6 +90,27 @@ DIVIDE(
     0
 )
 
+
+## Key Metrics
+
+- Total Sales
+- Total Quantity
+- Total Profit
+- Average Discount %
+
+## Power BI Features Implemented
+
+- Power Query for data transformation and preparation
+- Data modeling and relationships
+- DAX measures
+- Interactive slicers
+- Cross-filtering between visuals
+- KPI cards
+- Conditional formatting
+- Interactive dashboard visualizations
+- Time-based sales analysis
+- Regional and category analysis
+
 ## Key Business Insights
 
 The dashboard enables analysis of:
@@ -138,6 +159,8 @@ It combines data preparation, data modeling, DAX calculations, visualization, an
 The dashboard uses aggregated sales, profit, quantity, and discount measures based on the underlying sales records.
 
 Different visuals analyze the data at different business dimensions such as month, region, category, sub-category, segment, and shipping mode.
+
+The AOV measure calculates average order value using total sales divided by the distinct number of orders.
 
 ## Data Privacy
 
