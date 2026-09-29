@@ -64,13 +64,6 @@ The key objectives are to:
 - Interactive dashboard visuals
 - Consistent KPI and visual formatting
 
-## Key Metrics
-
-- Total Sales
-- Total Quantity
-- Total Profit
-- Average Discount %
-
 ## Power BI Features Implemented
 
 - Power Query for data transformation and preparation
