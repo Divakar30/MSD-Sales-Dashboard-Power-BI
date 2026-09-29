@@ -1,3 +1,5 @@
+# MSD Sales Dashboard – Power BI
+
 ## Project Overview
 
 MSD Sales Dashboard is an interactive Power BI sales analytics dashboard developed using a synthetic sales dataset.
