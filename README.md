@@ -29,7 +29,7 @@ The key objectives are to:
 
 ## Dashboard Preview
 
-![MSD Sales Dashboard](https://github.com/Divakar30/MSD-Sales-Dashboard-Power-BI/blob/main/Screenshots%20/%20MSD_Sales_Dashboard.png))
+![MSD Sales Dashboard](https://github.com/Divakar30/MSD-Sales-Dashboard-Power-BI/blob/main/Screenshots%20/%20MSD_Sales_Dashboard.png)
 
 ## Key Metrics
 
