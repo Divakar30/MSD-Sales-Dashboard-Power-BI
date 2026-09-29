@@ -64,33 +64,6 @@ The key objectives are to:
 - Interactive dashboard visuals
 - Consistent KPI and visual formatting
 
-## Important DAX Measures
-
-```DAX
-Total Sales =
-SUM('MSD sales dataset'[Sales])
-
-```DAX
-Total Profit =
-SUM('MSD sales dataset'[Profit])
-
-```DAX
-Total Quantity =
-SUM('MSD sales dataset'[Quantity])
-
-```DAX
-Avg Discount % =
-AVERAGE('MSD sales dataset'[Discount %])
-
-```DAX
-AOV =
-DIVIDE(
-    [Total Sales],
-    DISTINCTCOUNT('MSD sales dataset'[Order_id]),
-    0
-)
-
-
 ## Key Metrics
 
 - Total Sales
@@ -110,6 +83,27 @@ DIVIDE(
 - Interactive dashboard visualizations
 - Time-based sales analysis
 - Regional and category analysis
+
+## Important DAX Measures
+
+  Total Sales =
+  SUM('MSD sales dataset'[Sales])
+
+  Total Profit =
+  SUM('MSD sales dataset'[Profit])
+
+  Total Quantity =
+  SUM('MSD sales dataset'[Quantity])
+
+  Avg Discount % =
+  AVERAGE('MSD sales dataset'[Discount %])
+
+  AOV =
+  DIVIDE(
+      [Total Sales],
+      DISTINCTCOUNT('MSD sales dataset'[Order_id]),
+      0
+  )
 
 ## Key Business Insights
 
